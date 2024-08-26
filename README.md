@@ -1,2 +1,2 @@
 # devops-platform
-Internal Developer platform - DevEx
+Internal Developer Platform - DevEx
